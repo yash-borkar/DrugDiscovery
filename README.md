@@ -27,6 +27,18 @@ This project aims to simplify the drug discovery pipeline using a combination of
 - Docker (for containerization)
 - Git/GitHub (for version control)
 
+## 📢 Docker Quick Access
+
+🔗 **Pull the Docker image:**
+```sh
+docker pull yashborkar/react-drugdisc-app:latest
+docker run -d -p 3000:80 yashborkar/react-drugdisc-app
+```
+
+🔗 **Then open your browser and go to:**
+```sh
+http://localhost:3000
+```
 ## 🚀 Features
 
 - 🧪 Upload compound data (SMILES format or CSV)
