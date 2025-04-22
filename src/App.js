@@ -6,3 +6,4 @@ function App() {
   return <DrugDiscoveryApp />;
 }
 
+export default App;
