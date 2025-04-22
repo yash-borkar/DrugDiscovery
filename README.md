@@ -39,6 +39,27 @@ docker run -d -p 3000:80 yashborkar/react-drugdisc-app
 ```sh
 http://localhost:3000
 ```
+
+## 🛠️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```sh
+https://github.com/yash-borkar/DrugDiscovery.git
+cd DrugDiscovery
+```
+
+### 2️⃣ Install Dependencies
+```sh
+npm install
+```
+
+### 3️⃣ Run the Project
+```sh
+npm start
+```
+The app will be live at **`http://localhost:3000`** 🚀
+
+  
 ## 🚀 Features
 
 - 🧪 Upload compound data (SMILES format or CSV)
